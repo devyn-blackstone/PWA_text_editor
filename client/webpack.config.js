@@ -37,7 +37,7 @@ module.exports = () => {
         short_name: "Editor",
         description: "Have fun with text!",
         background_color: "#225ca3",
-        theme_color: "#225ca3",
+        theme_color: "#d3d3d3",
         start_url: "./",
         publicPath: "./",
         icons: [
